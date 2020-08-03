@@ -15,7 +15,7 @@ We'll be creating the following models:
 -	Dish
 -	Tag
 
-**Migrations**
+<!-- **Migrations**
 
 - Restaurant
 	- name
@@ -25,7 +25,7 @@ We'll be creating the following models:
 	- has many tags
 - Tag
 	- name
-	- has many dishes
+	- has many dishes -->
 
 *Do you need any join tables? What data should they have?*
 
@@ -41,10 +41,10 @@ We'll be creating the following models:
 
 Create a seeds file that creates:
 
-* 20 restaurants.
-* Each restaurant should have 10 dishes
+<!-- * 20 restaurants. -->
+<!-- * Each restaurant should have 10 dishes
 * Each Dish should have 3 tags
-* There should be only 10 or 15 tags, with names like 'Spicy' and 'Vegetarian'
+* There should be only 10 or 15 tags, with names like 'Spicy' and 'Vegetarian' -->
 
 *Reminder: Be DRY - use an array of names and iterate through them to create your restaurants*
 
